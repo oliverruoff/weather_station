@@ -2,7 +2,7 @@
 # Opens a gui and starts all needed processes.
 
 # The gui container class
-import View.Frame as frame
+import View.MainStationFrame as frame
 
 # Calling gui, opening window
 frame()
